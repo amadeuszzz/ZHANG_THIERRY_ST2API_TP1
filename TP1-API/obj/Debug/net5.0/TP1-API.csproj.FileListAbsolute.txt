@@ -1,0 +1,16 @@
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\TP1-API.exe
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\TP1-API.deps.json
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\TP1-API.runtimeconfig.json
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\TP1-API.runtimeconfig.dev.json
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\TP1-API.dll
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\ref\TP1-API.dll
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\bin\Debug\net5.0\TP1-API.pdb
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.csproj.AssemblyReference.cache
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.AssemblyInfoInputs.cache
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.AssemblyInfo.cs
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.dll
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\ref\TP1-API.dll
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.pdb
+C:\Users\Zhang Thierry\Desktop\Workspace C#\TP1-API\TP1-API\obj\Debug\net5.0\TP1-API.genruntimeconfig.cache
